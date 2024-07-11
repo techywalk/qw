@@ -1,0 +1,17 @@
+{
+  "name": "my-survey-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "survey-core": "^1.11.6",
+    "survey-jquery": "^1.11.6"
+  }
+}
